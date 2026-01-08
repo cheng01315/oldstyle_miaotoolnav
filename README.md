@@ -2,7 +2,7 @@
 
 
 <ul>
-<li><strong>netlify：</strong>https://miaonav-top.netlify.app/</li>
+<li><strong>netlify：</strong>https://oldstyle-miaotool.netlify.app/</li>
 <li><strong>我的新网站地址：</strong>https://miaonav.top</li>
 </ul>
 <div align="center">
